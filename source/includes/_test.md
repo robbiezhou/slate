@@ -1,5 +1,18 @@
 # investment api 
-<aside class="notice">just for test</aside>
+<aside class="notice">
+notice test <code>notice test</code>
+</aside>
+
+
+<aside class="success">
+success test
+</aside>
+
+
+<aside class="warning">warning test <code>warning test</code></aside>
+
+
+[Slate](https://github.com/lord/slate)
 
 ## user add
 ### description
