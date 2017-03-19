@@ -6,6 +6,7 @@ language_tabs:
   - ruby
   - python
   - javascript
+  - json
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
