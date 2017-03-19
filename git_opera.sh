@@ -9,6 +9,6 @@ then
 fi
 
 git add -A
-git commit -a -m $commit_comment
+git commit -a -m "$commit_comment"
 git push
 sh deploy.sh
